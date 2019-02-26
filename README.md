@@ -1,4 +1,4 @@
-# test_job_MTrading
+# getting photos_public from flickr.com
 
 * app\Http\Controllers\MainController.php
 * app\Http\Controllers\Ajax\MainController.php
